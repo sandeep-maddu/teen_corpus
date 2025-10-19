@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Maddu"
+  given-names: "Sandeep"
+  orcid: "https://orcid.org/0009-0009-0833-6063"
+title: "TEEN corpus"
+version: 1.0.0
+doi: 10.5281/zenodo.17391083
+date-released: 2024-07-27
+url: "https://github.com/sandeep-maddu/teen_corpus"
